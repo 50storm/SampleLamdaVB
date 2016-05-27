@@ -1,0 +1,10 @@
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\bin\Debug\SampleLamdaVB.exe.config
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\bin\Debug\SampleLamdaVB.exe
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\bin\Debug\SampleLamdaVB.pdb
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\bin\Debug\SampleLamdaVB.xml
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\obj\Debug\SampleLamdaVB.vbprojResolveAssemblyReference.cache
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\obj\Debug\SampleLamdaVB.Resources.resources
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\obj\Debug\SampleLamdaVB.vbproj.GenerateResource.Cache
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\obj\Debug\SampleLamdaVB.exe
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\obj\Debug\SampleLamdaVB.xml
+c:\users\higarashi\documents\visual studio 2015\Projects\SampleLamdaVB\SampleLamdaVB\obj\Debug\SampleLamdaVB.pdb
